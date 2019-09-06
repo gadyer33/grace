@@ -1,0 +1,12 @@
+/* This is my css file */
+
+/* styles of tags */
+
+html {
+  background-color: lightblue;
+}
+
+/* styles of classes */
+.name {
+  color: coral;
+}
